@@ -1,5 +1,6 @@
 # optimal-allocation-of-energy
 CSE1904: Capstone Project 
+
 Dataset link: https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london
 
 This project focuses on optimizing the allocation of energy between producers and consumers using a multivariate LSTM load forecasting AI model. By harnessing the power of artificial intelligence and machine learning, we aim to provide insights into efficient energy trading in modern energy systems.
